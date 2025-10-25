@@ -44,10 +44,6 @@ A comprehensive list of **Machine Learning Classification Algorithms** (non–ne
 | 28 | Voting Classifier | `from sklearn.ensemble import VotingClassifier` |
 | 29 | Hidden Markov Model (HMM) | `from hmmlearn import hmm` *(install via `pip install hmmlearn`)* |
 | 30 | Conditional Random Field (CRF) | `from sklearn_crfsuite import CRF` *(install via `pip install sklearn-crfsuite`)* |
-| 31 | Gaussian Process Classifier | `from sklearn.gaussian_process import GaussianProcessClassifier` |
-| 32 | Rule-Based Classifier (RIPPER, PART) | `from wittgenstein import RIPPER` *(install via `pip install wittgenstein`)* |
-| 33 | Genetic Algorithm-based Classifier | `from sklearn_genetic import GAFeatureSelectionCV` *(install via `pip install sklearn-genetic`)* |
-| 34 | Fuzzy Logic Classifier | `from simpful import FuzzySystem` *(install via `pip install simpful`)* |
 
 ---
 
